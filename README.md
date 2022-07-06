@@ -1,1 +1,1 @@
-# ashtonmoore.dev-public
+This is a public mirror of some of the content that can be found in the [private, real repo](https://github.com/ashtonmoomoo/ashtonmoore.dev/). I'm doing this because I would like to share the source of the site itself and how it is served, but not all the version history for the source of my CV. If I wanted that, I would've written it in Word™! Thanks for looking :)
